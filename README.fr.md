@@ -78,7 +78,7 @@ Un bon conseil serait d'avoir un dossier modèle. Pour cela, il suffit de faire 
 
 ## Contributions
 
-Les [PRs] (https://github.com/altv-templates/stream-vehicles/pulls) sont les bienvenues. Pour des changements explicites, veuillez d'abord ouvrir un [issue](https://github.com/altv-templates/stream-vehicles/issues). Comme il s'agit d'un modèle, nous aimerions le garder aussi simple et soigné que possible.
+Les [PRs](https://github.com/altv-templates/stream-vehicles/pulls) sont les bienvenues. Pour des changements explicites, veuillez d'abord ouvrir un [issue](https://github.com/altv-templates/stream-vehicles/issues). Comme il s'agit d'un modèle, nous aimerions le garder aussi simple et soigné que possible.
 
 
 ## Crédits
